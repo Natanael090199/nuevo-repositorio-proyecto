@@ -1,0 +1,33 @@
+.jumbotron-x{
+    background-image: url(marketing1.gif);
+    height: 600px;
+}
+.myNewButton {
+	box-shadow: 3px 4px 0px 0px #ad1515;
+	background:linear-gradient(to bottom, #ff7e79 5%, #e53d37 100%);
+	background-color:#ff7979;
+	border-radius:5px;
+	border:1px solid #c43333;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ff0000;
+    margin-left: 900px;
+}
+.myNewButton-1:hover {
+	background:linear-gradient(to bottom, #be3e3e 5%, #ff0000 100%);
+	background-color:#000000;
+}
+.myNewButton-1:active {
+	position:relative;
+    top:1px;
+
+}
+.especial{
+    background-color: #000000;
+}
